@@ -1,0 +1,15 @@
+{
+  "name": "sri-npx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": [
+    "_ur",
+    "_ur_addons"
+  ],
+  "bin": {
+    "ur": "_ur/ur.sh"
+  },
+  "author": "",
+  "license": "ISC"
+}
